@@ -7,6 +7,7 @@
 	<Item Name="CloseDevice.vi" Type="VI" URL="../Libraries/CloseDevice.vi"/>
 	<Item Name="GetWavelength.vi" Type="VI" URL="../Libraries/GetWavelength.vi"/>
 	<Item Name="OpenDevice.vi" Type="VI" URL="../Libraries/OpenDevice.vi"/>
+	<Item Name="OpenShutter.vi" Type="VI" URL="../Libraries/OpenShutter.vi"/>
 	<Item Name="SetWavelength.vi" Type="VI" URL="../Libraries/SetWavelength.vi"/>
 	<Item Name="TopasError.vi" Type="VI" URL="../Libraries/TopasError.vi"/>
 </Library>
